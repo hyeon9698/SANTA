@@ -1,0 +1,35 @@
+{
+  "name": "santa-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "jszip": "^3.10.1",
+    "konva": "^9.3.14",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^18",
+    "react-konva": "^18.2.10",
+    "react-rnd": "^10.4.11",
+    "react-slick": "^0.30.2",
+    "react-zoom-pan-pinch": "^3.6.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.12",
+    "use-image": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

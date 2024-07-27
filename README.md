@@ -1,9 +1,36 @@
-# SANTA
-![image](https://github.com/user-attachments/assets/d1cdfd15-9d10-4db1-b538-98727c5bceb7)
-![image](https://github.com/user-attachments/assets/88d52a02-b001-446c-be69-8b4ebf5cff31)
-![image](https://github.com/user-attachments/assets/05c60b95-c62a-4b92-9bc0-f4e1c8294796)
-![image](https://github.com/user-attachments/assets/88b239f4-dac2-4544-ad57-739bd4c3636d)
-![image](https://github.com/user-attachments/assets/bd423087-6b51-4a50-b001-5f2c84c7e2d9)
-![image](https://github.com/user-attachments/assets/f3a27d80-f826-4317-95a3-7444bf3be866)
-![image](https://github.com/user-attachments/assets/0183978e-11fe-4f94-8e8a-6ed1403bfb5e)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
